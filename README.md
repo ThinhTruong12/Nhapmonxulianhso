@@ -6,11 +6,13 @@ Bài 1
 
 2. Sau đó tách từng kênh màu
 "rdata = data[:, :, 0]: Lấy kênh màu đỏ (Red)."
+
 "gdata = data[:, :, 1]: Lấy kênh màu lục (Green)."
+
 "bdata = data[:, :, 2]: Lấy kênh màu xanh dương (Blue)."
 
-3. Hiển thị từng kênh màu dưới dạng ảnh đơn kênh
-4. Dùng matplotlib.pyplot.imshow để hiển thị từng kênh màu riêng biệt:
+4. Hiển thị từng kênh màu dưới dạng ảnh đơn kênh
+5. Dùng matplotlib.pyplot.imshow để hiển thị từng kênh màu riêng biệt:
 rdata được hiển thị với bảng màu (cmap) là 'Reds' để làm nổi bật màu đỏ.
 gdata được hiển thị với bảng màu 'Greens' làm nổi bật màu xanh lá.
 bdata được hiển thị với bảng màu 'Blues' làm nổi bật màu xanh dương.
