@@ -5,9 +5,9 @@ Bài 1
 Ảnh được lưu dưới dạng mảng NumPy 3 chiều với kích thước (chiều cao, chiều rộng, 3 kênh màu RGB).
 
 2. Sau đó tách từng kênh màu
-rdata = data[:, :, 0]: Lấy kênh màu đỏ (Red).
-gdata = data[:, :, 1]: Lấy kênh màu lục (Green).
-bdata = data[:, :, 2]: Lấy kênh màu xanh dương (Blue).
+"rdata = data[:, :, 0]: Lấy kênh màu đỏ (Red)."
+"gdata = data[:, :, 1]: Lấy kênh màu lục (Green)."
+"bdata = data[:, :, 2]: Lấy kênh màu xanh dương (Blue)."
 
 3. Hiển thị từng kênh màu dưới dạng ảnh đơn kênh
 4. Dùng matplotlib.pyplot.imshow để hiển thị từng kênh màu riêng biệt:
