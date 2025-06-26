@@ -45,11 +45,7 @@ GVHD: Nguyễn Thái Anh
 - Ảnh sau xử lý hiển thị lát kiwi **ở vị trí mới**, cách chỗ cũ 30 pixels theo trục hoành.  
 - Ảnh gốc vẫn giữ nguyên nếu không xóa lát kiwi cũ.
 
-### Gợi ý mở rộng:
 
-- Cho phép người dùng chọn vùng ảnh bằng chuột.
-- Áp dụng thao tác di chuyển nhiều lát khác nhau.
-- Kết hợp với hiệu ứng hoặc hoạt ảnh chuyển động.
 
 ## BÀI 2 : ĐỔI MÀU TRÁI CÂY THEO VÙNG
 
